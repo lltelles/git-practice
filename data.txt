@@ -1,3 +1,27 @@
-Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Git basics
+
+- git init
+- git status
+- git add <file-name> // single file
+- git add . // all files
+- git commit -m"<commit-messages>"
+- git log
+
+pwd // shows current directory
+cd // enter directory --> cd /, cd ~, dc -
+ls // list files --> ls -1, ls -t, ls -s, ls -r, ls -a
+mkdir new-folder // create new folder
+rmdir folder-name // remove an empty folder
+touch new-file.fileExtension // create new file
+rm new-file.fileExtension // remove file
+cat <filename> // display file content
+more <filename> // if too large
+cp file.txt copied.txt // copy a file
+
+GitHub -
+lltelles
+Senhadolucasmsn2
+
+Git Token -
+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
+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
